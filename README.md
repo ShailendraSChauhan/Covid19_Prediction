@@ -61,8 +61,5 @@ This project aims to predict COVID-19 test results based on various features suc
 - The best model achieved an accuracy of [0.9837] on the test set.
 
 
-## Acknowledgments
-- Acknowledge any resources, datasets, or libraries used in the project.
-
-Feel free to customize this template based on your specific project details and requirements.
+Feel free to customize this based on your specific project details and requirements.
 

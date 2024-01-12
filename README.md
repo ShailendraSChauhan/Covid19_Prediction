@@ -24,7 +24,7 @@ This project aims to predict COVID-19 test results based on various features suc
 - The best-performing model is selected based on accuracy.
 
 ## Requirements
-- Python 3.x
+- Python 3.7
 - Jupyter Notebook
 - Required Python packages are specified in `Requirements.txt`. Install them using: # COVID-19 Prediction Project
 
